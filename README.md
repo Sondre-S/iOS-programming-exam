@@ -5,6 +5,7 @@
 *Built using Swift and SwiftUI*
 
 This Project was my final exam for the iOS Development course at Kristiania University College.
+Grade: A
 
 The app uses [The Meal DB](https://www.themealdb.com), a free API that provides a large number of recipes from all over the world! :earth_americas:
 
